@@ -39,4 +39,4 @@ Based on various meteorological surveys and people's styles, the service provide
 - Libraries used - (numpy, pandas, seaborn, statsmodels, sklearn)
 
 ## Contact
-Created by [@PiyushKadve] - feel free to contact me!
+Created by @PiyushKadve - feel free to contact me!
